@@ -5,7 +5,7 @@ Here you will find awesome collection of Multimedia and Gaming
 <img src="https://media.iconsink.com/g_images/stop-3442.jpg" alt="Stop">
 <a href="https://www.iconsink.com/icon/stop-3442">Stop iocn</a>
 
-<img src="https://media.iconsink.com/og_images/record-3446.png" alt="Record">
+<img src="https://media.iconsink.com/og_images/record-3446.png" alt="Record"><br/>
 <a href="https://www.iconsink.com/icon/record-3446">Record icon</a>
 
 <img src="https://media.iconsink.com/g_images/pause-3448.jpg" alt="Pause">
@@ -20,7 +20,7 @@ Here you will find awesome collection of Multimedia and Gaming
 <img src="https://media.iconsink.com/g_images/end-3458.jpg" alt="End">
 <a href="https://www.iconsink.com/icon/end-3458">End icon</a>
 
-<img src="https://media.iconsink.com/og_images/skip-to-start-3461.png" alt="Skip to Start">
+<img src="https://media.iconsink.com/og_images/skip-to-start-3461.png" alt="Skip to Start"><br/>
 <a href="https://www.iconsink.com/icon/skip-to-start-3461">Skip to Start icon</a>
 
 <img src="https://media.iconsink.com/g_images/eject-3462.jpg" alt="Eject">
