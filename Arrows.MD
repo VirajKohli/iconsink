@@ -18,7 +18,7 @@ Here you will find latest collection of Arrow Icons.
 <img src="https://media.iconsink.com/g_images/up-left-17.jpg" alt="Up Left">
 <a href="https://www.iconsink.com/icon/up-left-17">Up Left Icon</a>
 
-<img src="https://media.iconsink.com/og_images/down-right-20.png" alt="Down Right">
+<img src="https://media.iconsink.com/og_images/down-right-20.png" alt="Down Right"><br/>
 <a href="https://www.iconsink.com/icon/down-right-20">Down Right Icon</a>
 
 <img src="https://media.iconsink.com/g_images/down-left-24.jpg" alt="Down Left">
