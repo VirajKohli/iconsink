@@ -8,7 +8,7 @@ Here you will find latest collection of Arrow Icons.
 
 <img src="https://media.iconsink.com/g_images/up-9.jpg" alt="Up">
 <a href="https://www.iconsink.com/icon/up-9">Up Icon</a>
-https://www.iconsink.com/icon/down-right-25
+
 <img src="https://media.iconsink.com/g_images/down-12.jpg" alt="Down">
 <a href="https://www.iconsink.com/icon/down-12">Down Icon</a>
 
@@ -24,8 +24,8 @@ https://www.iconsink.com/icon/down-right-25
 <img src="https://media.iconsink.com/g_images/down-left-24.jpg" alt="Down Left">
 <a href="https://www.iconsink.com/icon/down-left-24">Down Left Icon</a>
 
-<img src="https://media.iconsink.com/g_images/down-right-25.jpg" alt="Down Right">
+<img src="https://media.iconsink.com/g_images/down-right-25.jpg" alt="Down Right"><br/>
 <a href="https://www.iconsink.com/icon/down-right-25">Down Right Icon</a>
 
-<img src="https://media.iconsink.com/og_images/down-left-30.png" alt="Down Left">
+<img src="https://media.iconsink.com/og_images/down-left-30.png" alt="Down Left"><br/>
 <a href="https://www.iconsink.com/icon/down-left-30">Down Left Icon</a>
