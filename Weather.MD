@@ -1,6 +1,6 @@
 Here you will get latest collection of weather icons from iconsink.
 
-<img src="https://media.iconsink.com/og_images/cloud-5291.png" alt="Cloud">
+<img src="https://media.iconsink.com/og_images/cloud-5291.png" alt="Cloud"></br>
 <a href="https://www.iconsink.com/icon/cloud-5291">Cloud Icon</a>
 
 <img src="https://media.iconsink.com/g_images/partly-cloudy-day-5295.jpg" alt="Partly Cloudy Day">
