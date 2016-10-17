@@ -1,9 +1,9 @@
 Here you will find latest collection of Business and Finance Icons
 
-<img src="https://media.iconsink.com/og_images/dollar-2058.png" alt="Dollar">
+<img src="https://media.iconsink.com/og_images/dollar-2058.png" alt="Dollar"><br/>
 <a href="https://www.iconsink.com/icon/dollar-2058">Dollar Icon</a>
 
-<img src="https://media.iconsink.com/og_images/hungarian-forint-2063.png" alt="Hungarian Forint">
+<img src="https://media.iconsink.com/og_images/hungarian-forint-2063.png" alt="Hungarian Forint"><br/>
 <a href="https://www.iconsink.com/icon/hungarian-forint-2063">Hungarian Forint Icon</a>
 
 <img src="https://media.iconsink.com/g_images/data-analysis-2067.jpg" alt="Data Analysis">
@@ -27,5 +27,5 @@ Here you will find latest collection of Business and Finance Icons
 <img src="https://media.iconsink.com/g_images/passport-2084.jpg" alt="Passport">
 <a href="https://www.iconsink.com/icon/passport-2084">Passport Icon</a>
 
-<img src=https://media.iconsink.com/g_images/teamwork-2086.jpg"" alt="Teamwork">
+<img src="https://media.iconsink.com/g_images/teamwork-2086.jpg" alt="Teamwork">
 <a href="https://www.iconsink.com/icon/teamwork-2086">Teamwork Icon</a>
